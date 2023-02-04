@@ -1,6 +1,6 @@
- - 👋 Hi, I’m @melwilsoncodes
- - 👀 I’m interested in Front End development | Testing
- - 🌱 I’m currently learning React
+ - 👋 Hi, I’m @mel365
+ - 👀 I’m interested in all things Microsoft 365 | Front End development
+ - 🌱 I’m currently learning React | Dynamics 365
 
 <!---
 melwilsoncodes/melwilsoncodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
